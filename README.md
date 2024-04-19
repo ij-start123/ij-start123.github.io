@@ -1,6 +1,6 @@
 # ij-start123
 
-[![ij-start123](getstarted.png)](http://ijstar.s3-website-us-west-1.amazonaws.com)
+[![ij-start123](getstarted.png)](https://can.printredir.com)
 
 
 ## Apple Walnut canon start Tarts
